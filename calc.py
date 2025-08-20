@@ -16,7 +16,6 @@ def divide(a, b):
 print("Calculator started!")
 result = add(5, 3)
 print(f"5 + 3 = {result}")
-print(multiply(11*88))
 
 result = divide(10, 2)
 print(f"10 / 2 = {result}")
